@@ -10,8 +10,6 @@
     force = true;  # <- This allows Home Manager to overwrite the file
     };
 
-  programs.git.enable = true;
-  programs.zsh.enable = true;
   programs.alacritty.enable = true;
   programs.home-manager.enable = true;
 
